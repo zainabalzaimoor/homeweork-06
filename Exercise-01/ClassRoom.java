@@ -1,5 +1,3 @@
-package com.ga;
-
 public class ClassRoom {
     private String className;
     private Student [] studentList;

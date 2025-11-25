@@ -1,5 +1,3 @@
-package com.ga;
-
 public class Student extends Person implements IStudentRole{
     private double currentGrade;
 

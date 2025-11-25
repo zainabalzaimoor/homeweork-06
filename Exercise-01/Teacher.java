@@ -1,5 +1,3 @@
-package com.ga;
-
 public class Teacher extends FullTimeInstructor implements ITeacherRole{
 
     public Teacher(String firstName, String lastName, double salaryRate) {

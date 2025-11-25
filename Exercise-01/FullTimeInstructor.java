@@ -1,5 +1,3 @@
-package com.ga;
-
 public class FullTimeInstructor extends Person {
     private double salaryRate;
 

@@ -1,5 +1,3 @@
-package com.ga;
-
 import java.util.List;
 
 public class School {

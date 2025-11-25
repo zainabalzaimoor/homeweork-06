@@ -1,5 +1,3 @@
-package com.ga;
-
 abstract class Person {
     private String firstName;
     private String lastName;
